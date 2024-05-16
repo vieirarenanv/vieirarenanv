@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Renan+Vieira!;You+can+find+my+contact%2C+info+below.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=30&duration=6000&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Renan+Vieira!;Systems+Analyst+and+Developer.)](https://git.io/typing-svg)
 
 [//]: # (https://github-readme-stats.vercel.app) 
 [//]: # (width="435px" height="233px")
-
-I'm Renan Vieira - Systems Analyst and Developer
 
 <div>
   <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto"></a> 
@@ -21,12 +19,12 @@ I'm Renan Vieira - Systems Analyst and Developer
 
 <hr/>
 
-<div>
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <img align="top" alt="Renan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=vieirarenanv&show_icons=true&count_private=true&theme=dark" />
+  <div align="center">
     <img alt="Renan Vieira's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=vieirarenanv&layout=compact&show_icons=true&theme=dark&langs_count=8&size_weight=0.5&count_weight=0.5"/>
   </div>
-</div>
+  <div align="center">
+    <img alt="Renan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=vieirarenanv&show_icons=true&count_private=true&theme=dark" />
+  </div>
 
 <hr/>
 
@@ -37,7 +35,7 @@ I'm Renan Vieira - Systems Analyst and Developer
 </div>
 
 <div align="center">
-  <p>Snake animation By: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Github Stats By: Anurag Hazra / Snake animation By: danielbped</p>
 </div>
 
 <hr/>

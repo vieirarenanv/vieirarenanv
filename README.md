@@ -1,16 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=30&duration=6000&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+there%2C+I'm+Renan+Vieira!;Systems+Analyst+and+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&duration=3500&color=FFFFFF&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hello+there%2C+I'm+Renan+Vieira!;Systems+Analyst+and+Developer.)](https://git.io/typing-svg)
 
-[//]: # (https://github-readme-stats.vercel.app) 
-[//]: # (width="435px" height="233px")
-
+<h3>Contact me</h3>
 <div>
   <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
-  <a href="mailto:vieirarenanv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>
-
-### Software Skills
-
+<h3>Software Skills</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -25,6 +20,9 @@
   <div align="center">
     <img alt="Renan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=vieirarenanv&show_icons=true&count_private=true&theme=dark" />
   </div>
+  <div align="center">
+  <p>Github Stats By: Anurag Hazra</p>
+  </div>
 
 <hr/>
 
@@ -35,7 +33,7 @@
 </div>
 
 <div align="center">
-  <p>Github Stats By: Anurag Hazra / Snake animation By: danielbped</p>
+  <p>Snake animation By: danielbped</p>
 </div>
 
 <hr/>

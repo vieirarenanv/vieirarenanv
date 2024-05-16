@@ -2,8 +2,8 @@
 
 <h3>Contact me</h3>
 <div>
-  <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+  <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto"></a> 
+  <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
 </div>
 <h3>Software Skills</h3>
 <p>

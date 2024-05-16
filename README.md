@@ -6,9 +6,9 @@
 I'm Renan Vieira - Systems Analyst and Developer
 
 <div>
-  <a href="https://renanvieira.dev" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="[https://www.linkedin.com/in/ugab/](https://www.linkedin.com/in/vieirarenanv)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vieirarenanv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto"></a> 
+  <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+  <a href="mailto:vieirarenanv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 </div>
 
 ### Software Skills
@@ -23,8 +23,8 @@ I'm Renan Vieira - Systems Analyst and Developer
 
 <div>
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <img align="top" alt="Renan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=vieirarenanv&show_icons=true&count_private=true&theme=tokyonight" />
-    <img alt="Renan Vieira's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=vieirarenanv&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,EJS,PHP,ShaderLab,c%23&exclude_repo=vieirarenanv.github.io,ab1website,o3pusher" />
+    <img align="top" alt="Renan's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api?username=vieirarenanv&show_icons=true&count_private=true&theme=dark" />
+    <img alt="Renan Vieira's Github Stats" src="https://github-readme-stats-sand-seven-98.vercel.app/api/top-langs/?username=vieirarenanv&layout=compact&show_icons=true&theme=dark&langs_count=8&size_weight=0.5&count_weight=0.5"/>
   </div>
 </div>
 

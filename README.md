@@ -4,9 +4,9 @@
 [//]: # (width="435px" height="233px")
 
 <div>
-  <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto"></a> 
-  <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
-  <a href="mailto:vieirarenanv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://renanvieira.dev" target="_blank"><img src="https://skillicons.dev/icons?i=devto" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vieirarenanv" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+  <a href="mailto:vieirarenanv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>
 
 ### Software Skills

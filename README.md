@@ -3,7 +3,7 @@
 [//]: # (https://github-readme-stats.vercel.app) 
 [//]: # (width="435px" height="233px")
 
-I'm Renan Vieira - Systems Analyst and Developer - Turning lines of code into creative and impactful solutions!
+I'm Renan Vieira - Systems Analyst and Developer
 
 <div>
   <a href="https://renanvieira.dev" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 

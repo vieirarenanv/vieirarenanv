@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&duration=3500&color=FFFFFF&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hello+there%2C+I'm+Renan+Vieira!;Systems+Analyst+and+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&duration=3500&color=FFFFFF&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hello+there%2C+I'm+Renan+Vieira!;Analysis+and+Systems+Development.)](https://git.io/typing-svg)
 
 <h3>Contact me</h3>
 <div>
